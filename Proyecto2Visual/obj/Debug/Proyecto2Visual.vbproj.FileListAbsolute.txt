@@ -1,0 +1,186 @@
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\Escalante\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.baml
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.g.vb
+C:\Users\Hernán\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.baml
+C:\Users\USUARIO\Documents\Programación Visual\Proyecto\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.g.vb
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.baml
+C:\Users\ESTUDIANTE\Desktop\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe.config
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.exe
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.xml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.pdb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbprojResolveAssemblyReference.cache
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultadosCan.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Principal.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Application.g.vb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.cache
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual_MarkupCompile.lref
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.exe
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.pdb
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\bin\Debug\Proyecto2Visual.xml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\LoginVotante.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MainWindow.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\MostrarResultados.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalAdministrador.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalCandidato.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\PrincipalVotante.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaCandidato.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\VentanaDignidad.baml
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.g.resources
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.Resources.resources
+C:\Users\Hernán\Downloads\Proyecto2Visual\Proyecto2Visual\obj\Debug\Proyecto2Visual.vbproj.GenerateResource.Cache

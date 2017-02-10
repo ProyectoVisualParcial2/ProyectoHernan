@@ -1,0 +1,46 @@
+﻿<Window x:Class="MostrarResultadosCan"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="MostrarResultados" Height="538.464" Width="584.359" Loaded="Window_Loaded">
+    <Grid x:Name="gridVentana" Margin="0,0,-8,4">
+        <Label x:Name="label" Content="Presidente" HorizontalAlignment="Left" Margin="34,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Prefecto" HorizontalAlignment="Left" Margin="34,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Asambleista" HorizontalAlignment="Left" Margin="34,48,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Votaciones 2017" HorizontalAlignment="Left" Margin="182,10,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <DataGrid x:Name="dataGridMosPresidentes" HorizontalAlignment="Center" Margin="39,95,380,222" VerticalAlignment="Center" Height="186" Width="165" AutoGenerateColumns="False" ItemsSource="{Binding Path=tblPersonas}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Nombre}"  Header="Nombre" />
+                <DataGridTextColumn Binding="{Binding Path=Apellido}"  Header="Apellido" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="dataGridVotosPresidentes" HorizontalAlignment="Center" Margin="231,95,293,222" VerticalAlignment="Center" Height="186" Width="60" AutoGenerateColumns="False" ItemsSource="{Binding Path=tblCandidato}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding votos}"  Header="Votos" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="dataGridMosAsambleistas" HorizontalAlignment="Center" Margin="39,95,380,222" VerticalAlignment="Center" Height="186" Width="165" AutoGenerateColumns="False" ItemsSource="{Binding Path=tblPersonas}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Nombre}"  Header="Nombre" />
+                <DataGridTextColumn Binding="{Binding Path=Apellido}"  Header="Apellido" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="dataGridVotosAsambleistas" HorizontalAlignment="Center" Margin="231,95,293,222" VerticalAlignment="Center" Height="186" Width="60" AutoGenerateColumns="False" ItemsSource="{Binding Path=tblCandidato}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding votos}"  Header="Votos" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="dataGridMosPrefectos" HorizontalAlignment="Center" Margin="39,95,380,222" VerticalAlignment="Center" Height="186" Width="165" AutoGenerateColumns="False" ItemsSource="{Binding Path=tblPersonas}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Nombre}"  Header="Nombre" />
+                <DataGridTextColumn Binding="{Binding Path=Apellido}"  Header="Apellido" />
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <DataGrid x:Name="dataGridVotosPrefectos" HorizontalAlignment="Center" Margin="231,95,293,222" VerticalAlignment="Center" Height="186" Width="60"  AutoGenerateColumns="False" ItemsSource="{Binding Path=tblCandidato}" EnableRowVirtualization="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding votos}"  Header="Votos" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
